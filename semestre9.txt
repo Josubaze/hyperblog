@@ -7,3 +7,5 @@
 	PREP, EVALUACIÓN Y CONTROL DE PROYECTOS 3
 	+                                       ------
 	FASE II                                   15
+	
+	FALTA PARALELOS
