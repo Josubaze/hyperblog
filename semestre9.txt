@@ -8,4 +8,6 @@
 	+                                       ------
 	FASE II                                   15
 	
-	FALTA INSCRIBIR PARALELO!!
+	FALTA PARALELOS Y FASE II
+
+	CAMBIOS CON CHECKOUT!
